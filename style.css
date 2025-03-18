@@ -12,6 +12,7 @@ body{
 	margin: 0;
 	padding: 0;
 	background-color: rgba(203,234,246,15%);
+	overflow: hidden;
 }
 
 #display{
