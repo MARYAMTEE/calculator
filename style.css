@@ -1,2 +1,4 @@
-/* CSS Document */
-
+#keys{
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+}
