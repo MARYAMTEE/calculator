@@ -25,7 +25,7 @@ body{
 }
 
 #calculator-container{
-	width: 380px;
+	max-width: 380px;
 	overflow: hidden;
 	background-color: black;
 	border-radius: 15px;
